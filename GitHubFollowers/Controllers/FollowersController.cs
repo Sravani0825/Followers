@@ -75,7 +75,7 @@ namespace GitHubFollowers.Controllers
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(apiUrl);
             request.UserAgent = "CL Proj App";
             // Basic authentication to pass in username and password of your github account
-            request.Headers.Add(HttpRequestHeader.Authorization, "Basic " + Convert.ToBase64String(System.Text.ASCIIEncoding.ASCII.GetBytes("Sravani0825:Sweety@45")));
+            request.Headers.Add(HttpRequestHeader.Authorization, "Basic " + Convert.ToBase64String(System.Text.ASCIIEncoding.ASCII.GetBytes("Username:Password")));
             string json;
 
 
