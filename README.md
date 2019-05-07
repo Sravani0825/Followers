@@ -15,7 +15,7 @@ ADO.NET knowledge(using DataTable)
 
 Running locally: Clone this project or download it. To clone it via command line, use the following (Terminal on MacOSX/Linux, Git Bash on Windows):
 
-git clone https://github.com/Sravani0825/GitHub-Followers
+git clone https://github.com/Sravani0825/Followers
 
 Cloning a repository to GitHub Desktop:
 
