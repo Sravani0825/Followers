@@ -5,7 +5,13 @@ Write an API endpoint that accepts a GitHub ID and returns Follower GitHub ID’
 
 Setup: Prerequisites:
 
-Visual Studio: Either Community 2017+ (Windows) or Code (Windows, MacOS). .NET basic knowledge with C# Asp.net WEBAPI knowledge ADO.NET knowledge(using DataTable)
+Visual Studio: Either Community 2017+ (Windows) or Code (Windows, MacOS)
+
+.NET basic knowledge with C# 
+
+Asp.net WEBAPI knowledge 
+
+ADO.NET knowledge(using DataTable)
 
 Running locally: Clone this project or download it. To clone it via command line, use the following (Terminal on MacOSX/Linux, Git Bash on Windows):
 
