@@ -37,7 +37,7 @@ Header: Used basic authentication here and passed in the username and password
 
 request.Headers.Add(HttpRequestHeader.Authorization, "Basic " + Convert.ToBase64String(System.Text.ASCIIEncoding.ASCII.GetBytes("Username:Password")));
 
-Username:Password Here pass in username and password of your GitHub account
+Username:Password --> Here pass in username and password of your GitHub account
 
 ->After the http call is made, api response will be retreived in JSON format,converted to datatable and this data will be looped in and the function will be called to retreive the data upto 3 levels deep(upto 5 followers of each github account)
 
