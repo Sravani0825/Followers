@@ -25,7 +25,7 @@ Insights into the code and how to run it using Visual Studio (Windows):
 
 ->First step is to open the project in Visual Studio
 
-Insights:
+Insights: see Followers/GitHubFollowers/Controllers/FollowersController.cs
 
 ->This retrieves upto 5 followers of a github account
 
